@@ -9,6 +9,7 @@
     "@stripe/stripe-js": "^1.0.0-beta.8",
     "axios": "^0.19.2",
     "esm": "^3.2.25",
+    "firebase": "^8.2.2",
     "fs": "^0.0.1-security",
     "gatsby": "^2.19.7",
     "gatsby-image": "^2.2.39",
